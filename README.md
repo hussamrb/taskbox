@@ -1,25 +1,11 @@
-<p align="center">
-  <a href="https://www.chromatic.com/">
-    <img alt="Chromatic" src="https://avatars2.githubusercontent.com/u/24584319?s=200&v=4" width="60" />
-  </a>
-</p>
-
 <h1 align="center">
-  Chromatic's Intro to Storybook Angular template
+  Intro to Storybook Angular template
 </h1>
 
-This template ships with the main Angular and Storybook configuration files you'll need to get up and running fast.
+This template ships with the basic task list example with main Angular and Storybook configuration files you'll need to get up.
 
 ## 🚅 Quick start
 
-1.  **Create the application.**
-
-    Use [degit](https://github.com/Rich-Harris/degit) to get this template.
-
-    ```shell
-    # Clone the template
-    npx degit chromaui/intro-storybook-angular-template taskbox
-    ```
 
 1.  **Install the dependencies.**
 
